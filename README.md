@@ -1,4 +1,4 @@
-![logo](https://github.com/HamzaHashim12/HamzaHashim12/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+![logo](https://github.com/HamzaHashim12/HamzaHashim12/blob/main/BG-4.png)
 <h1 align="center">Hi 👋, I'm Hamza Hashim</h1>
 <h3 align="center">A passionate cyber security student from Pakistan</h3>
 
