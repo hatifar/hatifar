@@ -1,4 +1,3 @@
-![logo](https://github.com/HamzaHashim12/HamzaHashim12/blob/main/BG-4.png)
 <h1 align="center">Hi 👋, I'm Hamza Hashim</h1>
 <h3 align="center">A passionate cyber security student</h3>
 
